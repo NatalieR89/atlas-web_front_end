@@ -1,1 +1,3 @@
-# atlas-web_front_end
+Atlas Front End WebDev
+By: Natalie Ritchie
+Fall 2024
